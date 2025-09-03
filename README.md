@@ -1,1 +1,1 @@
-# K3VIN-X4
+# K3VIN-humanoidX4
